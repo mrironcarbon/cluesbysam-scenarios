@@ -15,8 +15,7 @@ criminal. That leaves no room for what I need to track on top of them: different
 
 So I wanted somewhere to play a scenario out: a copy of the current board where I can mark people red and green
 for one assumption, keep my tag pairs visible, open a second copy for another assumption on the same board, and
-later look back at the scenarios I made earlier in the game. Clues refer to rows and columns all the time, so
-those copies need the board's A–D / 1–5 numbering too.
+later look back at the scenarios I made earlier in the game.
 
 It is meant as a note-keeping aid, not a solver. The add-on never decides anything: who to mark, and how, is
 always up to the player.
